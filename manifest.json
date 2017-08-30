@@ -1,0 +1,17 @@
+{
+  "name": "Spott",
+  "short_name" : "Spott",
+  "description" : "Discover all there is to know about your favorite shows & series",
+  "icons" : [{
+    "src" : "icon.png",
+    "sizes" : "144x144",
+    "type" : "image/png"
+  }],
+  "prefer_related_applications": true,
+  "related_applications" : [{
+    "platform" : "play",
+    "id" : "mobi.appiness.spott"
+  }],
+  "start_url": "./",
+  "display": "standalone"
+}
